@@ -1,2 +1,2 @@
-# redlearn
-Record the study of a Green hand-。-
+# red-1
+Record the study of a rookie-。-
